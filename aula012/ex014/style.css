@@ -1,0 +1,32 @@
+body{
+    background-color: rgb(102, 178, 245);
+    font: normal 15pt arial;
+
+}
+header{
+    color:white;
+    text-align: center;
+}
+h1{
+    text-align: center;
+}
+div{
+    text-align: center;
+    padding: 8px;
+}
+section{
+    background: white;
+    border-radius: 7px;
+    font-family: 'Courier New', Courier, monospace;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.205);
+
+}
+
+footer{
+color: white;
+text-align: center;
+font-style: italic;
+}
